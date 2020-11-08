@@ -1,0 +1,6 @@
+https://opendata.digitalglobe.com/events/typhoon-goni20/pre-event/2020-03-22/105001001C20F700/105001001C20F700.tif
+https://opendata.digitalglobe.com/events/typhoon-goni20/pre-event/2020-04-10/105001001C73B100/105001001C73B100.tif
+https://opendata.digitalglobe.com/events/typhoon-goni20/pre-event/2020-05-26/10300100A65CAE00/10300100A65CAE00.tif
+https://opendata.digitalglobe.com/events/typhoon-goni20/pre-event/2020-07-09/10300100AAB85800/10300100AAB85800.tif
+https://opendata.digitalglobe.com/events/typhoon-goni20/pre-event/2020-07-23/105001001E9BD600/105001001E9BD600.tif
+https://opendata.digitalglobe.com/events/typhoon-goni20/pre-event/2020-09-05/1040010060CDC300/1040010060CDC300.tif

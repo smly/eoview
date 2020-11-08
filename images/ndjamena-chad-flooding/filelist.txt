@@ -1,0 +1,6 @@
+https://opendata.digitalglobe.com/events/ndjamena-chad-flooding/post-event/2020-08-31/10300100AD237A00/10300100AD237A00.tif
+https://opendata.digitalglobe.com/events/ndjamena-chad-flooding/pre-event/2020-06-24/105001001E1BEB00/105001001E1BEB00.tif
+https://opendata.digitalglobe.com/events/ndjamena-chad-flooding/pre-event/2020-06-27/10300100AA405C00/10300100AA405C00.tif
+https://opendata.digitalglobe.com/events/ndjamena-chad-flooding/pre-event/2020-07-08/10300100A84D9800/10300100A84D9800.tif
+https://opendata.digitalglobe.com/events/ndjamena-chad-flooding/pre-event/2020-08-15/10300100AD382B00/10300100AD382B00.tif
+https://opendata.digitalglobe.com/events/ndjamena-chad-flooding/pre-event/2020-08-15/105001001F29E400/105001001F29E400.tif

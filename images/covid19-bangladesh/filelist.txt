@@ -1,0 +1,12 @@
+https://opendata.digitalglobe.com/events/covid19-bangladesh/post-event/2020-03-12/105001001BCE8B00/105001001BCE8B00.tif
+https://opendata.digitalglobe.com/events/covid19-bangladesh/post-event/2020-03-21/1040010059098100/1040010059098100.tif
+https://opendata.digitalglobe.com/events/covid19-bangladesh/post-event/2020-04-09/10300100A090D200/10300100A090D200.tif
+https://opendata.digitalglobe.com/events/covid19-bangladesh/post-event/2020-04-09/10300100A48CA300/10300100A48CA300.tif
+https://opendata.digitalglobe.com/events/covid19-bangladesh/pre-event/2019-12-18/10400100546E3700/10400100546E3700.tif
+https://opendata.digitalglobe.com/events/covid19-bangladesh/pre-event/2019-12-31/10400100555DFA00/10400100555DFA00.tif
+https://opendata.digitalglobe.com/events/covid19-bangladesh/pre-event/2019-12-31/10400100561EEF00/10400100561EEF00.tif
+https://opendata.digitalglobe.com/events/covid19-bangladesh/pre-event/2020-01-19/10300100A23BD600/10300100A23BD600.tif
+https://opendata.digitalglobe.com/events/covid19-bangladesh/pre-event/2020-01-20/105001001AC98900/105001001AC98900.tif
+https://opendata.digitalglobe.com/events/covid19-bangladesh/pre-event/2020-02-01/10300100A1947B00/10300100A1947B00.tif
+https://opendata.digitalglobe.com/events/covid19-bangladesh/pre-event/2020-02-23/10300100A0C32200/10300100A0C32200.tif
+https://opendata.digitalglobe.com/events/covid19-bangladesh/pre-event/2020-03-02/10300100A3BE5E00/10300100A3BE5E00.tif

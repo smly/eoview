@@ -1,0 +1,2 @@
+https://opendata.digitalglobe.com/events/hurricane-sally/pre-event/2020-04-27/10300100A59DB700/10300100A59DB700.tif
+https://opendata.digitalglobe.com/events/hurricane-sally/pre-event/2020-05-02/104001005C4E3400/104001005C4E3400.tif

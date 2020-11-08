@@ -1,0 +1,5 @@
+https://opendata.digitalglobe.com/events/covid19-malawi/pre-event/2019-03-15/103001008C1DAE00/103001008C1DAE00.tif
+https://opendata.digitalglobe.com/events/covid19-malawi/pre-event/2019-03-15/103001008C317200/103001008C317200.tif
+https://opendata.digitalglobe.com/events/covid19-malawi/pre-event/2019-06-21/105001001701FB00/105001001701FB00.tif
+https://opendata.digitalglobe.com/events/covid19-malawi/pre-event/2019-08-06/1050010017C1EB00/1050010017C1EB00.tif
+https://opendata.digitalglobe.com/events/covid19-malawi/pre-event/2019-10-22/10500100195A6700/10500100195A6700.tif

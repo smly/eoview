@@ -1,0 +1,52 @@
+fullname,date,event_name,is_archived,archive_url
+"Typhoon Goni","Nov. 02, 2020","typhoon-goni",0,
+"Mauritius Oil Spill","Oct. 13, 2020","mauritius-oil-spill",0,
+"Hurricane Delta","Oct. 08, 2020","hurricane-delta",0,
+"Oregon Washington Fires","Sept. 16, 2020","oregon-washington-fires",0,
+"Hurricane Sally","Sept. 15, 2020","hurricane-sally",0,
+"California and Colorado Fires","Sept. 09, 2020","california-colorado-fires",0,
+"Ndjamena Chad Flooding","Sept. 05, 2020","ndjamena-chad-flooding",0,
+"Hurricane Laura","Aug. 26, 2020","hurricane-laura",0,
+"Typhoon Vongfong","March 10, 2020","typhoon-vongfong",0,
+"COVID19 Malawi","March 10, 2020","covid19-malawi",0,
+"COVID19 Jamaica","March 10, 2020","covid19-jamaica",0,
+"COVID19 Ghana","March 10, 2020","covid19-ghana",0,
+"COVID19 Democratic Republic of the Congo","March 10, 2020","covid19-drc",0,
+"COVID19 Sierra Leone","March 10, 2020","covid19-sierra-leone",0,
+"COVID19 Bangladesh","March 10, 2020","covid19-bangladesh",0,
+"COVID19 South Sudan","March 10, 2020","covid19-south-sudan",0,
+"Australia Wildfires","Jan. 15, 2020","australia-wildfires",0,
+"Puerto Rico Earthquake","Jan. 08, 2020","puerto-rico-earthquake",0,
+"Kincade Fire","2019-10-20","kincade-fire",1,https://web.archive.org/web/20200203145532/https://www.digitalglobe.com/ecosystem/open-data/kincade-fire
+"South Sudan Flooding","2019-08-25","south-sudan-flooding",1,https://web.archive.org/web/20200201055304/http://www.digitalglobe.com/ecosystem/open-data/south-sudan-flooding
+"Amazon Fires","2019-09-01","amazon-fires",1,https://web.archive.org/web/2020w0203145532/https://www.digitalglobe.com/ecosystem/open-data/amazon-fires
+"Midwest Floods","2019-06-01","midwest-floods",1,https://web.archive.org/web/20200201233859/http://www.digitalglobe.com/ecosystem/open-data/midwest-floods
+"Cyclone Fani","2019-05-02","cyclone-fani",1,https://web.archive.org/web/20200201234023/https://www.digitalglobe.com/ecosystem/open-data/cyclone-fani
+"Cyclone Kenneth","2019-04-25","cyclone_kenneth",1,https://web.archive.org/web/20200203145532/https://www.digitalglobe.com/ecosystem/open-data/cyclone_kenneth
+"Cyclone Idai","2019-03-24","cyclone_idai",1,https://web.archive.org/web/20200203145532/https://www.digitalglobe.com/ecosystem/open-data/cyclone_idai
+"Papua Indonesia Flooding","2019-03-18","papua_indonesia_flooding",1,https://web.archive.org/web/20200203145532/https://www.digitalglobe.com/ecosystem/open-data/papua_indonesia_flooding
+"Sunda Strait Tsunami","2018-12-22","sunda-strait-tsunami",1,https://web.archive.org/web/20200203145532/https://www.digitalglobe.com/ecosystem/open-data/sunda-strait-tsunami
+"Woolsey Fire","2018-11-08","woolsey-fire",1,https://web.archive.org/web/20200203145532/https://www.digitalglobe.com/ecosystem/open-data/woolsey-fire
+"California Wildfires","2018-11-01","california-wildfires",1,https://web.archive.org/web/20200203145532/https://www.digitalglobe.com/ecosystem/open-data/california-wildfires
+"Super Typhoon Yutu","2018-10-24","super-typhoon-yutu",1,https://web.archive.org/web/20200203145532/https://www.digitalglobe.com/ecosystem/open-data/super-typhoon-yutu
+"Hurricane Willa","2018-10-23","hurricane-willa",1,https://web.archive.org/web/20200203145532/https://www.digitalglobe.com/ecosystem/open-data/hurricane-willa
+"Hurricane Michael","2018-10-10","hurricane-michael",1,https://web.archive.org/web/20200203145532/https://www.digitalglobe.com/ecosystem/open-data/hurricane-michael
+"Indonesia Earthquake & Tsunami","2018-09-28","indonesia-earthquake-tsunami",1,https://web.archive.org/web/20200203145532/https://www.digitalglobe.com/ecosystem/open-data/indonesia-earthquake-tsunami
+"Super Typhoon Mangkhut","2018-09-14","typhoon-mangkhut",1,https://web.archive.org/web/20200203145532/https://www.digitalglobe.com/ecosystem/open-data/typhoon-mangkhut
+"Hurricane Florence","2018-09-14","hurricane-florence",1,https://web.archive.org/web/20200203145532/https://www.digitalglobe.com/ecosystem/open-data/hurricane-florence
+"Flooding in India","2018-08-17","flooding-in-india",1,https://web.archive.org/web/20200203145532/https://www.digitalglobe.com/ecosystem/open-data/flooding-in-india
+"Indonesia Earthquake","2018-08-12","indonesia-earthquake",1,https://web.archive.org/web/20200203145532/https://www.digitalglobe.com/ecosystem/open-data/indonesia-earthquake
+"Myanmar Floods","2018-07-30","myanmar-floods",1,https://web.archive.org/web/20200203145532/https://www.digitalglobe.com/ecosystem/open-data/myanmar-floods
+"Mendocino Fire","2018-07-27","mendocino-fire",1,https://web.archive.org/web/20200203145532/http://www.digitalglobe.com/ecosystem/open-data/mendocino-fire
+"Tropical Cyclone Gita","2018-02-13","tropical-cyclone-gita",1,https://web.archive.org/web/20200203145532/http://www.digitalglobe.com/ecosystem/open-data/tropical-cyclone-gita
+"Tropical Cyclone Enawo","2017-03-07","tropical-cyclone-enawo",1,https://web.archive.org/web/20200203145532/http://www.digitalglobe.com/ecosystem/open-data/tropical-cyclone-enawo
+"Hurricane Patricia","2015-10-23","hurricane-patricia",1,https://web.archive.org/web/20200203145532/http://www.digitalglobe.com/ecosystem/open-data/hurricane-patricia
+"Hurricane Maria","2017-09-20","hurricane-maria",1,https://web.archive.org/web/20200203145532/http://www.digitalglobe.com/ecosystem/open-data/hurricane-maria
+"Ecuador Earthquake","2016-04-16","ecuador-earthquake",1,https://web.archive.org/web/20200203145532/http://www.digitalglobe.com/ecosystem/open-data/ecuador-earthquake
+"Mexico City Earthquake","2017-09-19","mexico-city-earthquake",1,https://web.archive.org/web/20200203145532/http://www.digitalglobe.com/ecosystem/open-data/mexico-city-earthquake
+"Southern Mexico Earthquake","2017-09-08","southern-mexico-earthquake",1,https://web.archive.org/web/20200203145532/http://www.digitalglobe.com/ecosystem/open-data/southern-mexico-earthquake
+"Santa Rosa Wildfires","2017-10-08","santa-rosa-wildfires",1,https://web.archive.org/web/20200203145532/http://www.digitalglobe.com/ecosystem/open-data/santa-rosa-wildfires
+"Hurricane Florence","2018-09-14","hurricane-florence",1,https://web.archive.org/web/20200203145532/http://www.digitalglobe.com/ecosystem/open-data/hurricane-florence
+"Hurricane Harvey","2017-08-25","hurricane-harvey",1,https://web.archive.org/web/20200203145532/http://www.digitalglobe.com/ecosystem/open-data/hurricane-harvey
+"Hurricane Irma","2017-09-06","hurricane-irma",1,https://web.archive.org/web/20200203145532/http://www.digitalglobe.com/ecosystem/open-data/hurricane-irma
+"Hurricane Matthew","2016-10-09","hurricane-matthew",1,https://web.archive.org/web/20200203145532/http://www.digitalglobe.com/ecosystem/open-data/hurricane-matthew

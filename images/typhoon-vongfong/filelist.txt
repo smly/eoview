@@ -1,0 +1,14 @@
+https://opendata.digitalglobe.com/events/typhoon-vongfong/post-event/2020-05-15/104001005D846E00/104001005D846E00.tif
+https://opendata.digitalglobe.com/events/typhoon-vongfong/pre-event/2019-01-20/105001001421B600/105001001421B600.tif
+https://opendata.digitalglobe.com/events/typhoon-vongfong/pre-event/2019-01-23/103001008CA15200/103001008CA15200.tif
+https://opendata.digitalglobe.com/events/typhoon-vongfong/pre-event/2019-04-25/1030010091583000/1030010091583000.tif
+https://opendata.digitalglobe.com/events/typhoon-vongfong/pre-event/2019-06-03/10500100168ABE00/10500100168ABE00.tif
+https://opendata.digitalglobe.com/events/typhoon-vongfong/pre-event/2019-06-30/104001004E3E9600/104001004E3E9600.tif
+https://opendata.digitalglobe.com/events/typhoon-vongfong/pre-event/2019-08-16/105001001815B600/105001001815B600.tif
+https://opendata.digitalglobe.com/events/typhoon-vongfong/pre-event/2019-08-18/104001004F7DC200/104001004F7DC200.tif
+https://opendata.digitalglobe.com/events/typhoon-vongfong/pre-event/2019-08-19/105001001824DD00/105001001824DD00.tif
+https://opendata.digitalglobe.com/events/typhoon-vongfong/pre-event/2019-12-15/10300100A0405C00/10300100A0405C00.tif
+https://opendata.digitalglobe.com/events/typhoon-vongfong/pre-event/2019-12-31/103001009F5F2200/103001009F5F2200.tif
+https://opendata.digitalglobe.com/events/typhoon-vongfong/pre-event/2020-04-01/104001005B86F300/104001005B86F300.tif
+https://opendata.digitalglobe.com/events/typhoon-vongfong/pre-event/2020-04-26/1040010057B0CF00/1040010057B0CF00.tif
+https://opendata.digitalglobe.com/events/typhoon-vongfong/pre-event/2020-04-26/104001005A9FF700/104001005A9FF700.tif
