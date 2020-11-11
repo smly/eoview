@@ -1,4 +1,5 @@
 fullname,date,event_name,is_archived,archive_url
+"Turkey Earthquake","Nov. 06, 2020","turkey-earthquake",0
 "Typhoon Goni","Nov. 02, 2020","typhoon-goni",0,
 "Mauritius Oil Spill","Oct. 13, 2020","mauritius-oil-spill",0,
 "Hurricane Delta","Oct. 08, 2020","hurricane-delta",0,

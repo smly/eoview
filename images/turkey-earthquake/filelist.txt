@@ -1,0 +1,9 @@
+https://opendata.digitalglobe.com/events/turkey-earthquake20/pre-event/2020-07-14/10300500A4F8E700/10300500A4F8E700.tif
+https://opendata.digitalglobe.com/events/turkey-earthquake20/pre-event/2020-04-27/105001001CC33300/105001001CC33300.tif
+https://opendata.digitalglobe.com/events/turkey-earthquake20/pre-event/2020-04-27/105001001CC33200/105001001CC33200.tif
+https://opendata.digitalglobe.com/events/turkey-earthquake20/post-event/2020-11-07/10300100B0280300/10300100B0280300.tif
+https://opendata.digitalglobe.com/events/turkey-earthquake20/post-event/2020-11-05/10300100B07F8900/10300100B07F8900.tif
+https://opendata.digitalglobe.com/events/turkey-earthquake20/post-event/2020-11-05/10300100B0552000/10300100B0552000.tif
+https://opendata.digitalglobe.com/events/turkey-earthquake20/post-event/2020-11-03/1040010063C47D00/1040010063C47D00.tif
+https://opendata.digitalglobe.com/events/turkey-earthquake20/post-event/2020-11-03/10400100625EF300/10400100625EF300.tif
+https://opendata.digitalglobe.com/events/turkey-earthquake20/post-event/2020-10-31/10300500AAF98600/10300500AAF98600.tif
